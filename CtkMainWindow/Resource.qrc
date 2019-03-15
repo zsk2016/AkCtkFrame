@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/CtkMainWindow">
+        <file>META-INF/MANIFEST.MF</file>
+    </qresource>
+</RCC>

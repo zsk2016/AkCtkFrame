@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/NetManager">
+        <file>META-INF/MANIFEST.MF</file>
+    </qresource>
+</RCC>

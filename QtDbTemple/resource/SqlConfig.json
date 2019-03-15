@@ -1,0 +1,18 @@
+{
+    "database" : {
+        "debug" : false,
+        "type" : "QSQLITE",
+        "host" : "127.0.0.1",
+        "port" : 3306,
+        "database_name" : "../CAS.db",
+        "usernmae" : "",
+        "password" : "",
+        "test_on_borrow" : false,
+        "test_on_borrow_sql" : "SELECT 1",
+        "max_wait_time" : 5000,
+        "max_connection_count" : 5,
+        "sql_files" : [
+            "plan_info.sql"
+        ]
+    }
+}

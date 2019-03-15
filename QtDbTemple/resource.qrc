@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/SqlConfig.json</file>
+        <file>resource/sql/plan_info.sql</file>
+    </qresource>
+    <qresource prefix="/QtDbTemple">
+        <file>META-INF/MANIFEST.MF</file>
+    </qresource>
+</RCC>

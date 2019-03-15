@@ -1,0 +1,5 @@
+Puglin-Copyright: Copyright (c) Atosenet (2008, 2016). All Rights Reserved.
+Plugin-SymbolicName: QtDbTemple
+Plugin-ActivationPolicy: eager
+Plugin-Name: Qt DbTemple
+Plugin-Version: 1.0.0
